@@ -1,9 +1,5 @@
 ﻿### 节点
 
-### test
-
-ss://YWVzLTI1Ni1jZmI6emhvbmd3ZW5qaWFvQDIxNi4yNC4xNzcuNjE6ODM4OQ==#v%e5%a7%90%e5%82%bb%e9%80%bc
-
 ### los
 
 ss://YWVzLTI1Ni1jZmI6emhvbmd3ZW5qaWFvQDM0Ljk0LjE3My44OjgzODk=#%e7%a7%bb%e5%8a%a8
