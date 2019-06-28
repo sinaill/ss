@@ -8,10 +8,6 @@ ss://YWVzLTI1Ni1jZmI6emhvbmd3ZW5qaWFvQDM0Ljk0LjAuMjQ1OjgzODk=#%e7%a7%bb%e5%8a%a8
 
 ss://YWVzLTI1Ni1jZmI6emhvbmd3ZW5qaWFvQDM0LjgwLjEyMS43Mzo4Mzg5#%e7%94%b5%e4%bf%a1
 
-### bwh-los
-
-ss://YWVzLTI1Ni1jZmI6emhvbmd3ZW5qaWFvQDIxNi4yNC4xNzYuMTIwOjgzODk=#%e9%80%9a%e7%94%a8
-
 ### 阿里云
 
 ss://YWVzLTI1Ni1jZmI6emhvbmd3ZW5qaWFvQDQ3LjI0MC4zMC4yNTU6ODM4OQ==#%e9%98%bf%e9%87%8c%e4%ba%91(4G8%E5%A4%AA%E8%A1%8C)
