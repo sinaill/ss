@@ -37,6 +37,16 @@ ExecStart=/usr/bin/ssserver -c ${CONFIG_FILE}
 WantedBy=multi-user.target
 EOF
 
+# add iptables
+systemctl stop firewalld.service
+iptables -I OUTPUT -p tcp --sport 8388
+iptables -I OUTPUT -p tcp --sport 8389
+iptables -I OUTPUT -p tcp --sport 8390
+iptables -I OUTPUT -p tcp --sport 8391
+iptables -I OUTPUT -p tcp --sport 8392
+iptables -I OUTPUT -p tcp --sport 8393
+
+
 # start service
 systemctl enable shadowsocks
 systemctl start shadowsocks
