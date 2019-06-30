@@ -19,7 +19,7 @@ cat <<EOF | sudo tee ${CONFIG_FILE}
     "8390": "gongyong1",
     "8391": "chenyujuan",
     "8392": "chanchanchan",
-    "8393": "wenziqi"
+    "8393": "wengmeibao"
   },
   "timeout": 600,
   "method": "aes-256-cfb"
