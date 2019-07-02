@@ -16,7 +16,7 @@ cat <<EOF | sudo tee ${CONFIG_FILE}
   "port_password": {
     "8388": "cairuijie",
     "8389": "zhongwenjiao",
-    "8390": "gongyong1",
+    "8390": "liwenhui",
     "8391": "chenyujuan",
     "8392": "chanchanchan",
     "8393": "wengmeibao"
