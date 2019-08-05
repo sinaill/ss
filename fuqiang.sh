@@ -19,7 +19,9 @@ cat <<EOF | sudo tee ${CONFIG_FILE}
     "8390": "liwenhui",
     "8391": "chenyujuan",
     "8392": "chanchanchan",
-    "8393": "wengmeibao"
+    "8393": "wengmeibao",
+	"8394": "luosiqi",
+	"8444": "jyujyujyu"
   },
   "timeout": 600,
   "method": "aes-256-cfb"
@@ -47,6 +49,8 @@ iptables -I OUTPUT -p tcp --sport 8390
 iptables -I OUTPUT -p tcp --sport 8391
 iptables -I OUTPUT -p tcp --sport 8392
 iptables -I OUTPUT -p tcp --sport 8393
+iptables -I OUTPUT -p tcp --sport 8394
+iptables -I OUTPUT -p tcp --sport 8444
 
 
 # start service
