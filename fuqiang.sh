@@ -21,6 +21,8 @@ cat <<EOF | sudo tee ${CONFIG_FILE}
     "8392": "chanchanchan",
     "8393": "wengmeibao",
 	"8394": "luosiqi",
+	"8395": "huangxiaochong",
+	"8396": "yuansumei",
 	"8444": "jyujyujyu"
   },
   "timeout": 600,
@@ -50,6 +52,8 @@ iptables -I OUTPUT -p tcp --sport 8391
 iptables -I OUTPUT -p tcp --sport 8392
 iptables -I OUTPUT -p tcp --sport 8393
 iptables -I OUTPUT -p tcp --sport 8394
+iptables -I OUTPUT -p tcp --sport 8395
+iptables -I OUTPUT -p tcp --sport 8396
 iptables -I OUTPUT -p tcp --sport 8444
 
 
